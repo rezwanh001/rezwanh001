@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-![rezwanh001 :: Profile Stats](https://github-readme-stats.vercel.app/api?username=rezwanh001&show_icons=true&theme=radical) | ![rezwanh001 :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanh001y&langs_count=6&theme=dark&layout=compact&hide=html)
+![rezwanh001 :: Profile Stats](https://github-readme-stats.vercel.app/api?username=rezwanh001&show_icons=true&theme=radical) | ![rezwanh001 :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanh001&langs_count=6&theme=dark&layout=compact&hide=html)
