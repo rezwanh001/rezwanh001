@@ -1,3 +1,5 @@
+## Md. Rezwanul Haque ##
+---
 ### Hi there 👋
 
 I am a researcher in AI, machine learning and computer vision. I am interested in *generalizable, adaptable and transferable AI*. See my [homepage](https://rezwanh001.github.io/) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=HaI-oFUAAAAJ) for more about me and my research.
