@@ -17,8 +17,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <!-- [![rezwanh001's github stats](https://github-readme-stats.vercel.app/api?username=rezwanh001)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![rezwanh001's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanh001&show_icons=true&theme=radical)
+<!-- ![rezwanh001's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanh001&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanh001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanh001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align="center"><img src ="https://gpvc.arturio.dev/rezwanh001"></p>
+
+Profile stats              |  Language Contribution
+:-------------------------:|:-------------------------:
+![rezwanh001 :: Profile Stats](https://github-readme-stats.vercel.app/api?username=rezwanh001&show_icons=true&theme=radical) | ![rezwanh001 :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanh001y&langs_count=6&theme=dark&layout=compact&hide=html)
