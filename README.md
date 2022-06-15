@@ -15,7 +15,7 @@ I am a researcher in AI, machine learning and computer vision. I am interested i
 
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
-![rezwanh001 :: Profile Stats](https://github-readme-stats.vercel.app/api?username=rezwanh001&show_icons=true&theme=radical) | ![rezwanh001 :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanh001&langs_count=6&theme=dark&layout=compact&hide=html)
+![rezwanh001 :: Profile Stats](https://github-readme-stats.vercel.app/api?username=rezwanh001&show_icons=true&theme=radical) | ![rezwanh001 :: Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanh001&langs_count=8&theme=dark&layout=compact&hide=html)
 
 ## Contact ##
 <p align="center">
