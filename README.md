@@ -13,7 +13,12 @@ I am a researcher in AI, machine learning and computer vision. I am interested i
 
 <!-- <p align="center"><img src ="https://gpvc.arturio.dev/rezwanh001"></p> -->
 
-<img decoding="async" loading="lazy" align="center" alt="rezwanh001's GitHub Stats" src="https://github-readme-stats-andreynav-andreynav.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars,contribs&theme=dark&count_private=true&include_all_commits=true&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&icon_color=39d353&hide_rank=true&card_width=400" />
+<p align="center">
+  <img src="https://gpvc.arturio.dev/rezwanh001" alt="Visitor Count">
+</p>
+
+
+<!-- <img decoding="async" loading="lazy" align="center" alt="rezwanh001's GitHub Stats" src="https://github-readme-stats-andreynav-andreynav.vercel.app/api?username=andreynav&layout=compact&show_icons=true&hide=stars,contribs&theme=dark&count_private=true&include_all_commits=true&bg_color=00000000&border_color=444c56&title_color=adbac7&text_color=768390&icon_color=39d353&hide_rank=true&card_width=400" /> -->
 
 
 Profile stats              |  Language Contribution
