@@ -11,7 +11,10 @@ I am a researcher in AI, machine learning and computer vision. I am interested i
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanh001&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align="center"><img src ="https://gpvc.arturio.dev/rezwanh001"></p>
+<!-- <p align="center"><img src ="https://gpvc.arturio.dev/rezwanh001"></p> -->
+
+<p align="center"><img src ="https://github-readme-stats.vercel.app/rezwanh001"></p>
+
 
 Profile stats              |  Language Contribution
 :-------------------------:|:-------------------------:
