@@ -2,11 +2,11 @@
 ---
 ### Hi there 👋
 
-I am a researcher in AI, Machine Learning, Deep Learning, and Computer Vision. I am interested in *generalizable, adaptable and transferable AI*. See my [homepage](https://rezwanh001.github.io/) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=HaI-oFUAAAAJ) for more about me and my research.
-
 I am an MASc student in the Department of Electrical and Computer Engineering (ECE) at the [University of Waterloo (UW)](https://uwaterloo.ca/), Canada. 
 
 Currently, I am conducting research in the [Centre for Pattern Analysis and Machine Intelligence (CPAMI)](https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/) Lab, focusing on Multi-Modal Machine Learning (MMML) and Large Language Models (LLMs).
+
+I am also interested in *generalizable, adaptable, and transferable AI*. See my [homepage](https://rezwanh001.github.io/) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=HaI-oFUAAAAJ) for more about me and my research.
 
 
 <!-- [![rezwanh001's github stats](https://github-readme-stats.vercel.app/api?username=rezwanh001)](https://github.com/anuraghazra/github-readme-stats) -->
