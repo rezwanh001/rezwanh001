@@ -17,7 +17,9 @@ I am also interested in *generalizable, adaptable, and transferable AI*. See my 
 
 <!-- <p align="center"><img src ="https://gpvc.arturio.dev/rezwanh001"></p> -->
 
-![Visitor Count](https://profile-counter.glitch.me/rezwanh001/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/rezwanh001/count.svg) -->
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rezwanh001)
 
 
 
