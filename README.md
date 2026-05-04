@@ -2,11 +2,25 @@
 ---
 ### Hi there 👋
 
-I am an MASc student in the Department of Electrical and Computer Engineering (ECE) at the [University of Waterloo (UW)](https://uwaterloo.ca/), Canada. 
+I am a PhD student in Electrical and Computer Engineering at the [University of Waterloo (UW)](https://uwaterloo.ca/), Canada, where I previously completed my MASc at the [Centre for Pattern Analysis and Machine Intelligence (CPAMI)](https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/) Lab.
 
-Currently, I am conducting research in the [Centre for Pattern Analysis and Machine Intelligence (CPAMI)](https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/) Lab, focusing on Multi-Modal Machine Learning (MMML) and Large Language Models (LLMs).
+My research focuses on **agentic systems for embodied AI**, with an emphasis on **multi-agent embodied systems with shared visual understanding**, and **world models that enable visual cognition in intelligent agents**. I am particularly interested in building AI systems that are **generalizable, adaptable, and transferable across environments and tasks**.
 
-I am also interested in *generalizable, adaptable, and transferable AI*. See my [homepage](https://rezwanh001.github.io/) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=HaI-oFUAAAAJ) for more about me and my research.
+My work sits at the intersection of **multimodal learning, representation learning, and intelligent agent design**, aiming to bridge perception, reasoning, and action in real-world settings.
+
+🔗 Learn more:
+
+* [Homepage](https://rezwanh001.github.io/)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=HaI-oFUAAAAJ)
+
+
+<!-- ### Hi there 👋 -->
+
+<!-- I am a PhD student in the Department of Electrical and Computer Engineering (ECE) at the [University of Waterloo (UW)](https://uwaterloo.ca/), Canada.  I recently completed my MASc in ECE at the Centre for Pattern Analysis and Machine Intelligence (CPAMI) Lab in the department oof ECE at the University of Waterloo. -->
+
+<!-- Currently, I am conducting research in the [Centre for Pattern Analysis and Machine Intelligence (CPAMI)](https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/) Lab, focusing on Agentic Systems for Embodied AI, Multi-Agent Embodied Systems with Shared Visual Understanding, and World Models & Visual Cognitions for Embodied Agents. -->
+
+<!-- I am also interested in *generalizable, adaptable, and transferable AI*. See my [homepage](https://rezwanh001.github.io/) or [Google Scholar](https://scholar.google.com/citations?hl=en&user=HaI-oFUAAAAJ) for more about me and my research. -->
 
 
 <!-- [![rezwanh001's github stats](https://github-readme-stats.vercel.app/api?username=rezwanh001)](https://github.com/anuraghazra/github-readme-stats) -->
