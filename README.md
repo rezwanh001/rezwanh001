@@ -4,9 +4,9 @@
 
 I am a PhD student in Electrical and Computer Engineering at the [University of Waterloo (UW)](https://uwaterloo.ca/), Canada, where I previously completed my MASc at the [Centre for Pattern Analysis and Machine Intelligence (CPAMI)](https://uwaterloo.ca/centre-pattern-analysis-machine-intelligence/) Lab.
 
-My research focuses on **agentic systems for embodied AI**, with an emphasis on **multi-agent embodied systems with shared visual understanding**, and **world models that enable visual cognition in intelligent agents**. I am particularly interested in building AI systems that are **generalizable, adaptable, and transferable across environments and tasks**.
+My research focuses on **Agentic Systems for Embodied AI**, with an emphasis on **Multi-Agent Embodied Systems with Shared Visual Understanding**, and **World Models that Enable Visual Cognition in Intelligent Agents**. I am particularly interested in building AI systems that are **generalizable, adaptable, and transferable across environments and tasks**.
 
-My work sits at the intersection of **multimodal learning, representation learning, and intelligent agent design**, aiming to bridge perception, reasoning, and action in real-world settings.
+My work sits at the intersection of **Multimodal Learning, Representation Learning, and Intelligent Agent Design**, aiming to bridge perception, reasoning, and action in real-world settings.
 
 🔗 Learn more:
 
